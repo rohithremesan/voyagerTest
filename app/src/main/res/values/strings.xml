@@ -11,4 +11,26 @@
     <string name="sign_up">Sign Up</string>
     <string name="dont_have_account">Don\'t Have An Account ? </string>
     <string name="password">Password</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="product_list">Products List</string>
+    <string name="sign_out">SignOut</string>
+    <string name="category">Categories</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="price">Price</string>
+    <string name="code">Code</string>
+    <string name="field_null_error">Field Cannot Be Empty</string>
+    <string name="password_not_match_error">Password Does Not Match</string>
+    <string name="email_error">Enter a Valid Email</string>
+    <string name="login_sucess">Successfully LoggedIN</string>
+    <string name="sinup_sucess">Account Created Successfully</string>
+    <string name="product_add_sucess">Product Added Successfully</string>
+
+
+    <string-array name="category">
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+    </string-array>
+    <string name="please_add_image">Please Add Image</string>
 </resources>

@@ -6,4 +6,5 @@ interface ClickHelper {
 
     fun onClick(view : View)
 
+
 }
